@@ -1,0 +1,156 @@
+{
+    "datosPersonales": {
+      "nombre": "Roman Kochan",
+      "puesto": "Junior Frontend Developer",
+      "email": "romankocdev@gmail.com",
+      "titulo": "Hola, soy Roman",
+      "descripcion": "Soy un programador junior apasionado por el desarrollo, actualmente trabajo en el equipo Frontend de Icon Multimedia.",
+      "ubicacion": {
+        "city": "Palencia",
+        "region": "España"
+      },
+      "profiles": [{
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/roman-koc-dev/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/RomanKoc"
+      }]
+    },
+    "trabajo": [
+      {
+      "empresa": "Icon Multimedia",
+      "puesto": "Desarrollador Frontend",
+      "url": "https://www.iconmm.com/es/",
+      "comienzo": "Jun, 2024",
+      "fin": "2024-01-01",
+      "descripcion": "Desarrollo de SmatObjects para la plataforma DENEVA, utilizando tecnologías como HTML, SCSS, JavaScript, Angular y TypeScript."
+      },
+      {
+      "empresa": "Icon Multimedia",
+      "puesto": "Estudiante en practicas",
+      "url": "https://www.iconmm.com/es/",
+      "comienzo": "Mar, 2024",
+      "fin": "2024-06-01",
+      "descripcion": "Practicas en el equipo de desarrollo Frontend, aprendiendo a desarrollar SmartObjects para la plataforma DENEVA."
+      },
+      {
+      "empresa": "Empresas varias",
+      "puesto": "Cocinero",
+      "url": "https://company.com",
+      "comienzo": "Dic, 2014",
+      "fin": "2022-09-01",
+      "descripcion": "Trabajando en diferentes restaurantes, hoteles y residencias como cocinero, aprendiendo a trabajar en equipo, de forma organizada y bajo presión."
+      }
+    ],
+    "educacion": [
+      {
+      "nombre": "C.I.F.P. Camino de la Miranda",
+      "curso": "Técnico Superior en Desarrollo de Aplicaciones Web",
+      "comienzo": "2022-09-01",
+      "fin": "2014-06-01",
+      "nota": "8.0"
+      },
+      {
+      "nombre": "IES Virgen de la Calle",
+      "curso": "Técnico en Cocina y Gastronomía",
+      "comienzo": "2015-09-01",
+      "fin": "2017-06-01",
+      "nota": "7.0"
+      },
+      {
+      "nombre": "IES Emperador Carlos",
+      "curso": "Educación Secundaria Obligatoria",
+      "comienzo": "2006-09-01",
+      "fin": "2011-06-01",
+      "nota": "6.0"
+      }
+    ],
+    "skills": [{
+      "name": "Web Development",
+      "nivel": "Master",
+      "lenguajes": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "idiomas": [
+      {
+      "language": "Español",
+      "fluency": "Nativo"
+      },
+      {
+      "language": "Ucraniano",
+      "fluency": "Nativo"
+      },
+      {
+      "language": "Ruso",
+      "fluency": "Medio"
+      },
+      {
+      "language": "Ingles",
+      "fluency": "Basico"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+      "name": "Project1",
+      "comienzo": "2019-01-01",
+      "fin": "2021-01-01",
+      "description": "Description1...",
+      "image": "../assets/project.webp",
+      "tecnolog": [
+        "Angular",
+        "TailwindCSS",
+        "PHP"
+      ],
+      "url": "https://project.com/"
+      },
+      {
+      "name": "Project2",
+      "comienzo": "2019-01-01",
+      "fin": "2021-01-01",
+      "description": "Description2...",
+      "image": "../assets/project.webp",
+      "tecnolog": [
+        "Angular",
+        "TailwindCSS",
+        "PHP"
+      ],
+      "url": "https://project.com/"
+      },
+      {
+      "name": "Project3",
+      "comienzo": "2019-01-01",
+      "fin": "2021-01-01",
+      "description": "Description3...",
+      "image": "../assets/project.webp",
+      "tecnolog": [
+        "Angular",
+        "TailwindCSS",
+        "PHP"
+      ],
+      "url": "https://project.com/"
+      }
+    ],
+    "about": [{
+      "title": "Sobre mi",
+      "part1": "2019-01-01",
+      "part2": "2021-01-01",
+      "part3": "Description..."
+      
+    }]
+  }
